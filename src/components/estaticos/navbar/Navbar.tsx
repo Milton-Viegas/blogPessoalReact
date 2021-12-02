@@ -33,6 +33,7 @@ function Navbar() {
                                 cadastrar tema
                             </Typography>
                         </Box>
+                        
                         <Box mx={1} style={{ cursor: "pointer" }}>
                             <Typography variant="h6" color="inherit">
                                 logout
